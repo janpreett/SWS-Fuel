@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cede4f2c.css",
+    "main.js": "/static/js/main.44c9a062.js",
+    "static/media/truck.png": "/static/media/truck.2b94637966eaa67a0f30.png",
+    "static/media/gasoline.jpg": "/static/media/gasoline.6ce463187608298a8a36.jpg",
+    "static/media/diesel.jpg": "/static/media/diesel.c5e1b76c8daa3bbcc5ee.jpg",
+    "index.html": "/index.html",
+    "main.cede4f2c.css.map": "/static/css/main.cede4f2c.css.map",
+    "main.44c9a062.js.map": "/static/js/main.44c9a062.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cede4f2c.css",
+    "static/js/main.44c9a062.js"
+  ]
+}
