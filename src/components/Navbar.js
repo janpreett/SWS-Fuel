@@ -22,7 +22,7 @@ const Navbar = () => {
   return (
     <header className="header">
       <nav className="nav">
-        <div className="nav__logo">Swatch Fuel Transport.</div>
+        <div className="nav__logo">SWS Fuel.</div>
         <div className="nav__menu-icon" onClick={toggleMenu}>
           {isOpen ? (
             <div className="nav__menu-icon--close">&times;</div>

@@ -33,10 +33,10 @@ const AboutUs = () => {
       <div className="about-us__content">
         <h1 className="about-us__title">About Us</h1>
         <p className="about-us__description">
-          Swatch Fuel Transport Inc specializes in the efficient transport of fuel across New Jersey. With a fleet of top-of-the-line trucks and experienced drivers, we are committed to delivering your fuel promptly and reliably.
+          SWS Fuel Inc specializes in the efficient transport of fuel across New Jersey. With a fleet of top-of-the-line trucks and experienced drivers, we are committed to delivering your fuel promptly and reliably.
         </p>
         <p className="about-us__description">
-          Our dedication to efficiency and customer satisfaction drives every aspect of our operations. Whether you need regular fuel deliveries or specialized transport solutions, trust Swatch Fuel Transport Inc to meet your needs with professionalism and expertise.
+          Our dedication to efficiency and customer satisfaction drives every aspect of our operations. Whether you need regular fuel deliveries or specialized transport solutions, trust SWS Fuel Inc to meet your needs with professionalism and expertise.
         </p>
       </div>
     </div>

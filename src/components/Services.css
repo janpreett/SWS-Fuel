@@ -44,7 +44,7 @@
 
 .services__title {
   font-size: 36px;
-  color: #6495ED;
+  color: #DC143C;
   margin-bottom: 10px;
 }
 
@@ -75,7 +75,7 @@
 
 .service:hover {
   transform: scale(1.05);
-  background-color: #6495ED;
+  background-color: #DC143C;
   color: white; 
 }
 

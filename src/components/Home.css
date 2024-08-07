@@ -38,7 +38,7 @@
 
 .home__subtitle {
   font-size: 18px;
-  color: #6495ED;
+  color: #DC143C;
   margin-bottom: 10px;
   animation-delay: 0.2s;
   margin-top: 20px;
@@ -77,17 +77,17 @@
 }
 
 .home__button--primary {
-  background-color: #6495ED;
+  background-color: #DC143C;
   color: white;
 }
 .home__button--primary:hover{
-  background-color: #4169E1;
+  background-color: #C80028;
 }
 
 .home__button--secondary {
   background-color: transparent;
-  color: #6495ED;;
-  border: 2px solid #6495ED;
+  color: #DC143C;
+  border: 2px solid #DC143C;
 }
 
 @keyframes fadeInSlideLeft {

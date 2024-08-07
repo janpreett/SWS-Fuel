@@ -11,7 +11,7 @@ const ContactUs = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    emailjs.sendForm('gmail_sft', 'template_rc8m77i', form.current, 'PdLCg9gKFUJ-Tvwvk')
+    emailjs.sendForm('gmail_sws', 'template_m6auof2', form.current, '48C-aCbyOLlgmCYu1')
       .then((result) => {
         console.log(result.text);
         alert('Message sent successfully!');
@@ -69,10 +69,9 @@ const ContactUs = () => {
         </div>
         <div ref={infoRef} className="contact-us__info">
           <h3 className="contact-us__info-title">Call Us</h3>
-          <p className="contact-us__info-text"><a href="tel:+16094448223">Tel: (609) 444-8223</a></p> 
-          <p className="contact-us__info-text"><a href="tel:+16098530234">Tel: (609) 853-0234</a></p> 
+          <p className="contact-us__info-text"><a href="tel:+18565150344">Tel: (856) 515-0344</a></p> 
           <h3 className="contact-us__info-title">Send an E-mail</h3>
-          <p className="contact-us__info-text"><a href="mailto:swatchfueltransport@yahoo.com">swatchfueltransport@yahoo.com</a></p>
+          <p className="contact-us__info-text"><a href="mailto:swsfuel@gmail.com">swsfuel@gmail.com</a></p>
         </div>
       </div>
     </section>
